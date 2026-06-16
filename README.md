@@ -1,14 +1,17 @@
 # Kartik Mishra
 
-AI tool-use trainer and multimodal model evaluator focused on voice agents, tool-using agents, video workflow training, red teaming, data QA, agent memory safety, and automation.
+AI tool-use trainer and multimodal model evaluator focused on voice agents, OpenClaw-style agents, video workflow training, red teaming, data QA, agent memory safety, and automation.
 
 I build portfolio-safe Python tools for:
 
 - Vapi-style voice-agent QA
 - OpenClaw / Hermes-style agent trace evaluation
+- OpenClaw-style deployment QA
 - Autonomous workflow red-team testing
 - Agent memory safety and skill distillation
 - Synthetic multimodal eval dataset design
+- Repo-based AI response judging
+- Public-safe proof and resume tooling
 - AI tool-use evaluation
 - Video/post-production workflow QA
 - Multimodal labeling quality control
@@ -21,9 +24,12 @@ I build portfolio-safe Python tools for:
 - Confidential AI tool-use training for video/post-production workflows
 - Voice-agent evaluation, intake QA, and handoff checks
 - OpenClaw/Hermes-style tool-agent trace review
+- OpenClaw-style local deployment checks and handoff readiness
 - Agent memory safety, redaction, and reusable skill extraction
 - Synthetic multimodal eval data generation and validation
 - Autonomous workflow red teaming for tool-use side effects
+- Repo-based model response comparison with file, command, and test evidence
+- Public-safe portfolio proof packaging and resume/job-fit analysis
 - Multimodal model evaluation across UI, image, video, and text tasks
 - Rubric-based QA for AI training and data labeling projects
 - AI red teaming for prompt injection, unsafe tool behavior, and workflow drift
@@ -44,6 +50,11 @@ Reusable QA toolkit for Vapi-style voice agents, OpenClaw/Hermes-style tool-agen
 | [Agent Memory Safety Lab](https://github.com/Kartikm09/agent-memory-safety-lab) | Safe memory persistence, PII redaction, and reusable skill-candidate auditing |
 | [Multimodal Eval Data Forge](https://github.com/Kartikm09/multimodal-eval-data-forge) | Synthetic JSONL eval task generation and validation across video, UI, image, audio, voice, and red-team workflows |
 | [Autonomous Workflow Red-Team Sandbox](https://github.com/Kartikm09/autonomous-workflow-redteam-sandbox) | Prompt injection, restricted tool, side-effect, and data-exfiltration regression scenarios |
+| [OpenClaw Deploy Audit Kit](https://github.com/Kartikm09/openclaw-deploy-audit-kit) | Local agent deployment checks for runtime, memory budget, thread isolation, integrations, document staging, and handoff docs |
+| [Lightworks Rubric Eval Kit](https://github.com/Kartikm09/lightworks-rubric-eval-kit) | Video editing rubric checks for export specs, clips, whip-pan transitions, title cards, audio, color, and artifacts |
+| [Repo Response Judge Workbench](https://github.com/Kartikm09/repo-response-judge-workbench) | Evidence-first comparison of AI coding-agent responses on repo-based tasks |
+| [Freelance Proof Portfolio Sanitizer](https://github.com/Kartikm09/freelance-proof-portfolio-sanitizer) | Public-safe case-study cards from private proof notes and Loom-style walkthrough references |
+| [Resume Job Fit Tailor CLI](https://github.com/Kartikm09/resume-job-fit-tailor-cli) | Resume/job-description fit scoring with evidence-backed positioning and missing-proof checks |
 | [AI Tool-Use Eval Harness](https://github.com/Kartikm09/ai-tool-use-eval-harness) | Rubric-based scoring for software workflow responses |
 | [Video Post-Production Eval Suite](https://github.com/Kartikm09/video-postprod-eval-suite) | Video editing and post-production model evaluation |
 | [Multimodal Labeling QC Pipeline](https://github.com/Kartikm09/multimodal-labeling-qc-pipeline) | Annotation QA across text, image, video, and UI tasks |
@@ -53,7 +64,7 @@ Reusable QA toolkit for Vapi-style voice agents, OpenClaw/Hermes-style tool-agen
 
 ## Skills
 
-`Vapi-style voice-agent QA` `OpenClaw trace evaluation` `Hermes skill evaluation` `AI model evaluation` `tool-use training` `agent memory safety` `skill distillation` `synthetic eval data` `multimodal evaluation` `AI red teaming` `prompt injection testing` `rubric design` `data annotation QA` `workflow automation` `Python` `n8n`
+`Vapi-style voice-agent QA` `OpenClaw deployment QA` `OpenClaw trace evaluation` `Hermes skill evaluation` `AI model evaluation` `tool-use training` `repo-based evaluation` `Lightworks QA` `agent memory safety` `skill distillation` `synthetic eval data` `multimodal evaluation` `AI red teaming` `prompt injection testing` `rubric design` `data annotation QA` `workflow automation` `Python` `n8n`
 
 ## Portfolio Note
 
