@@ -1,10 +1,12 @@
 # Kartik Mishra
 
-AI tool-use trainer and multimodal model evaluator focused on voice agents, OpenClaw-style agents, video workflow training, red teaming, data QA, agent memory safety, and automation.
+AI automation workflow builder and multimodal model evaluator focused on social automation, voice agents, OpenClaw-style agents, Codex/Claude Code skills, video workflow training, red teaming, and data QA.
 
 I build portfolio-safe Python tools for:
 
 - Vapi-style voice-agent QA
+- AI automation workflow and social automation QA
+- Codex / Claude Code skill packaging
 - OpenClaw / Hermes-style agent trace evaluation
 - OpenClaw-style deployment QA
 - Autonomous workflow red-team testing
@@ -22,6 +24,8 @@ I build portfolio-safe Python tools for:
 ## Current Focus
 
 - Confidential AI tool-use training for video/post-production workflows
+- AI workflow automation and social content pipeline QA
+- Codex, Claude Code, and OpenClaw-style skill packaging
 - Voice-agent evaluation, intake QA, and handoff checks
 - OpenClaw/Hermes-style tool-agent trace review
 - OpenClaw-style local deployment checks and handoff readiness
@@ -46,6 +50,7 @@ Reusable QA toolkit for Vapi-style voice agents, OpenClaw/Hermes-style tool-agen
 | Project | Focus |
 | --- | --- |
 | [Agentic Eval Ops Kit](https://github.com/Kartikm09/agentic-eval-ops-kit) | Voice-agent QA, OpenClaw/Hermes trace evaluation, video workflow training, red-team regression |
+| [Agentic Social Redteam Skillpack](https://github.com/Kartikm09/agentic-social-redteam-skillpack) | AI automation workflow audits, social media automation QA, Codex/Claude/OpenClaw skill packs, and agentic red-team scenarios |
 | [Realtime Voice Agent QA Console](https://github.com/Kartikm09/realtime-voice-agent-qa-console) | Call-event scorecards for consent, latency, intake, tool calls, and handoff quality |
 | [Agent Memory Safety Lab](https://github.com/Kartikm09/agent-memory-safety-lab) | Safe memory persistence, PII redaction, and reusable skill-candidate auditing |
 | [Multimodal Eval Data Forge](https://github.com/Kartikm09/multimodal-eval-data-forge) | Synthetic JSONL eval task generation and validation across video, UI, image, audio, voice, and red-team workflows |
@@ -64,7 +69,7 @@ Reusable QA toolkit for Vapi-style voice agents, OpenClaw/Hermes-style tool-agen
 
 ## Skills
 
-`Vapi-style voice-agent QA` `OpenClaw deployment QA` `OpenClaw trace evaluation` `Hermes skill evaluation` `AI model evaluation` `tool-use training` `repo-based evaluation` `Lightworks QA` `agent memory safety` `skill distillation` `synthetic eval data` `multimodal evaluation` `AI red teaming` `prompt injection testing` `rubric design` `data annotation QA` `workflow automation` `Python` `n8n`
+`AI automation workflow` `social media automation` `Codex skills` `Claude Code skills` `Vapi-style voice-agent QA` `OpenClaw deployment QA` `OpenClaw trace evaluation` `Hermes skill evaluation` `AI model evaluation` `tool-use training` `repo-based evaluation` `Lightworks QA` `agent memory safety` `skill distillation` `synthetic eval data` `multimodal evaluation` `AI red teaming` `prompt injection testing` `rubric design` `data annotation QA` `workflow automation` `Python` `n8n`
 
 ## Portfolio Note
 
