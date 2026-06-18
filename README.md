@@ -20,6 +20,11 @@ I build portfolio-safe Python tools for:
 - Agent red-team regression testing
 - Creator and lead automation workflows
 - Freelance AI project scouting
+- Job application copilot workflows
+- Creator growth and viral content intelligence
+- Content credibility and source-quality review
+- Consumer product trust scanning
+- Import-substitution business intelligence
 
 ## Current Focus
 
@@ -38,6 +43,8 @@ I build portfolio-safe Python tools for:
 - Rubric-based QA for AI training and data labeling projects
 - AI red teaming for prompt injection, unsafe tool behavior, and workflow drift
 - Python and n8n-style automation for repeatable evaluation workflows
+- Human-approved job application automation and portfolio-safe CV tailoring
+- Creator growth research, multilingual repurposing, and credibility review
 
 ## Flagship Project
 
@@ -66,10 +73,15 @@ Reusable QA toolkit for Vapi-style voice agents, OpenClaw/Hermes-style tool-agen
 | [Agent Red-Team Regression Kit](https://github.com/Kartikm09/agent-redteam-regression-kit) | Prompt injection and tool-use safety scenarios |
 | [Creator Signal Automation Agent](https://github.com/Kartikm09/creator-signal-automation-agent) | Creator signal scoring and brief queue automation |
 | [AI Freelance Lead Scout](https://github.com/Kartikm09/ai-freelance-lead-scout) | Lead scoring for AI training and evaluation projects |
+| [Safe Job Application Copilot](https://github.com/Kartikm09/safe-job-application-copilot) | Fit scoring, CV bullets, cover-letter drafts, browser-fill plans, and human approval gates |
+| [Creator Growth Intelligence Kit](https://github.com/Kartikm09/creator-growth-intelligence-kit) | Viral outlier analysis, next-topic briefs, and multilingual content repurposing plans |
+| [Content Credibility Radar](https://github.com/Kartikm09/content-credibility-radar) | Claim/source-quality scoring for videos, podcasts, articles, and news-style content |
+| [Product Trust Scanner](https://github.com/Kartikm09/product-trust-scanner) | Ingredient caution flags, product trust scoring, and safer-alternative ranking |
+| [Import Substitution Intel Kit](https://github.com/Kartikm09/import-substitution-intel-kit) | India manufacturing opportunity ranking from public-safe import/product data |
 
 ## Skills
 
-`AI automation workflow` `social media automation` `Codex skills` `Claude Code skills` `Vapi-style voice-agent QA` `OpenClaw deployment QA` `OpenClaw trace evaluation` `Hermes skill evaluation` `AI model evaluation` `tool-use training` `repo-based evaluation` `Lightworks QA` `agent memory safety` `skill distillation` `synthetic eval data` `multimodal evaluation` `AI red teaming` `prompt injection testing` `rubric design` `data annotation QA` `workflow automation` `Python` `n8n`
+`AI automation workflow` `social media automation` `creator analytics` `content credibility` `job application automation` `product trust scanning` `import substitution research` `Codex skills` `Claude Code skills` `Vapi-style voice-agent QA` `OpenClaw deployment QA` `OpenClaw trace evaluation` `Hermes skill evaluation` `AI model evaluation` `tool-use training` `repo-based evaluation` `Lightworks QA` `agent memory safety` `skill distillation` `synthetic eval data` `multimodal evaluation` `AI red teaming` `prompt injection testing` `rubric design` `data annotation QA` `workflow automation` `Python` `n8n`
 
 ## Portfolio Note
 
