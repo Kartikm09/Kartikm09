@@ -79,6 +79,23 @@ Reusable QA toolkit for Vapi-style voice agents, OpenClaw/Hermes-style tool-agen
 | [Product Trust Scanner](https://github.com/Kartikm09/product-trust-scanner) | Ingredient caution flags, product trust scoring, and safer-alternative ranking |
 | [Import Substitution Intel Kit](https://github.com/Kartikm09/import-substitution-intel-kit) | India manufacturing opportunity ranking from public-safe import/product data |
 
+## Polyglot Open-Source Software Engineering Labs
+
+Independent public proof-of-work projects built with synthetic codebases and fixtures.
+Each lab includes four reproducible coding-agent tasks, isolated candidate workspaces,
+golden reference patches, deterministic evaluation reports, CI, benchmarks, and a
+verified `v0.1.0` release.
+
+| Repository | Engineering focus |
+| --- | --- |
+| [Java Refactoring RL Environment](https://github.com/Kartikm09/java-refactoring-rl-environment) | Java 25 order and inventory service covering transaction safety, partial cancellation, behaviour-preserving refactoring, and JMH-backed optimization |
+| [Rust Systems Reliability RL Lab](https://github.com/Kartikm09/rust-systems-reliability-rl-lab) | Rust 2024 event-processing workspace covering parser safety, graceful shutdown, structured errors, concurrency, and Criterion benchmarks |
+| [Go Concurrency Performance RL Lab](https://github.com/Kartikm09/go-concurrency-performance-rl-lab) | Go webhook worker system covering lifecycle races, backpressure, retry-policy refactoring, fuzzing, and throughput analysis |
+| [TypeScript Service Reliability RL Lab](https://github.com/Kartikm09/typescript-service-reliability-rl-lab) | Strict TypeScript service covering async idempotency, delivery scheduling, module boundaries, contracts, and validation performance |
+
+**Skills:** Java, Rust, Go, TypeScript, Python, C++ fundamentals, reproducible RL
+environments, golden patches, CI/CD, testing, benchmarking, code review workflows.
+
 ## Skills
 
 `AI automation workflow` `social media automation` `creator analytics` `content credibility` `job application automation` `product trust scanning` `import substitution research` `Codex skills` `Claude Code skills` `Vapi-style voice-agent QA` `OpenClaw deployment QA` `OpenClaw trace evaluation` `Hermes skill evaluation` `AI model evaluation` `tool-use training` `repo-based evaluation` `Lightworks QA` `agent memory safety` `skill distillation` `synthetic eval data` `multimodal evaluation` `AI red teaming` `prompt injection testing` `rubric design` `data annotation QA` `workflow automation` `Python` `n8n`
