@@ -2,6 +2,8 @@
 
 AI automation workflow builder and multimodal model evaluator focused on social automation, voice agents, OpenClaw-style agents, Codex/Claude Code skills, video workflow training, red teaming, and data QA.
 
+I also build reproducible public evidence systems for Agent Skill/MCP supply-chain review, coding-agent evaluation, and citation-integrity QA.
+
 I build portfolio-safe Python tools for:
 
 - Vapi-style voice-agent QA
@@ -45,12 +47,24 @@ I build portfolio-safe Python tools for:
 - Python and n8n-style automation for repeatable evaluation workflows
 - Human-approved job application automation and portfolio-safe CV tailoring
 - Creator growth research, multilingual repurposing, and credibility review
+- Static Agent Skill and MCP supply-chain inspection with redacted evidence
+- Citation-integrity evaluation using versioned synthetic benchmark data
 
 ## Flagship Project
 
 [Agentic Eval Ops Kit](https://github.com/Kartikm09/agentic-eval-ops-kit)
 
 Reusable QA toolkit for Vapi-style voice agents, OpenClaw/Hermes-style tool-agent traces, AI video workflow training, and red-team regression. Includes a Python CLI, sample scenarios, scorecards, integration blueprints, GitHub Actions tests, and a Codex-style evaluator skill.
+
+## Agent Trust & Verification Labs
+
+Independent public proof-of-work focused on making AI-agent ecosystems more inspectable, secure, and verifiable.
+
+| Project | Verified proof |
+| --- | --- |
+| [GitHub AI Repository Radar](https://github.com/Kartikm09/github-ai-repo-radar) · [Live dashboard](https://kartikm09.github.io/github-ai-repo-radar/) | Reproducible 25-query research pipeline, verified 100-repository dataset, evidence tiers, clean-room adaptation notes, 25 tests, CI, and `v0.2.0` release |
+| [Agent Skill Supply-Chain Auditor](https://github.com/Kartikm09/agent-skill-supply-chain-auditor) · [Live dashboard](https://kartikm09.github.io/agent-skill-supply-chain-auditor/) | Static Agent Skill/MCP inspection, 17 rules, SARIF, Agent-SBOM, permission graph, redaction, 59 tests, labelled synthetic benchmark, CI, and CodeQL |
+| [Legal Citation Verification Lab](https://github.com/Kartikm09/legal-citation-verification-lab) · [Live dashboard](https://kartikm09.github.io/legal-citation-verification-lab/) | Versioned synthetic corpus, 22 citation/abstention cases, per-case traces, 63 tests, CI, and `v0.1.0` release; not legal advice |
 
 ## Portfolio Projects
 
@@ -98,7 +112,7 @@ environments, golden patches, CI/CD, testing, benchmarking, code review workflow
 
 ## Skills
 
-`AI automation workflow` `social media automation` `creator analytics` `content credibility` `job application automation` `product trust scanning` `import substitution research` `Codex skills` `Claude Code skills` `Vapi-style voice-agent QA` `OpenClaw deployment QA` `OpenClaw trace evaluation` `Hermes skill evaluation` `AI model evaluation` `tool-use training` `repo-based evaluation` `Lightworks QA` `agent memory safety` `skill distillation` `synthetic eval data` `multimodal evaluation` `AI red teaming` `prompt injection testing` `rubric design` `data annotation QA` `workflow automation` `Python` `n8n`
+`AI automation workflow` `social media automation` `creator analytics` `content credibility` `job application automation` `product trust scanning` `import substitution research` `Codex skills` `Claude Code skills` `Agent Skills` `MCP supply-chain security` `SARIF` `Agent-SBOM` `citation verification` `GitHub API research` `Vapi-style voice-agent QA` `OpenClaw deployment QA` `OpenClaw trace evaluation` `Hermes skill evaluation` `AI model evaluation` `tool-use training` `repo-based evaluation` `Lightworks QA` `agent memory safety` `skill distillation` `synthetic eval data` `multimodal evaluation` `AI red teaming` `prompt injection testing` `rubric design` `data annotation QA` `workflow automation` `Python` `n8n`
 
 ## Portfolio Note
 
