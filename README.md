@@ -117,3 +117,16 @@ environments, golden patches, CI/CD, testing, benchmarking, code review workflow
 ## Portfolio Note
 
 These repositories use synthetic examples and public-safe workflows. They demonstrate evaluation, automation, and QA patterns without exposing confidential client data.
+
+
+## Verified review modules
+
+Independent synthetic portfolio exercises verified on 18 September 2026. The links include code, reproducible commands and test evidence.
+
+| Project | Reproducible evidence |
+| --- | --- |
+| [MCP Software Engineering RL Lab](https://github.com/Kartikm09/mcp-software-engineering-rl-lab) | Two actual SDK servers, four coding tasks, behavioral and retrieval-evidence verdicts, alternative correct patches and negative controls; [protocol design and commands](https://github.com/Kartikm09/mcp-software-engineering-rl-lab/blob/0dbecd596e565bdca014e16d8f457eb1bd4627bd/docs/protocol-bench/README.md) |
+| [Supplier Compliance Workspace](https://github.com/Kartikm09/supplier-compliance-workspace) | React/TypeScript review flow with backend role/tenant enforcement, stale-response recovery, browser checks and an isolated SSR/CSR/SSG comparison; [reviewer lab](https://github.com/Kartikm09/supplier-compliance-workspace/blob/91d59b71d16d522c0cbc65457596d9fb701556bd/docs/REVIEWER_LAB.md) |
+| [Automation Reliability Console](https://github.com/Kartikm09/automation-reliability-console) | Tenant-selection recovery and run-review workflows checked through frontend, API, database and Edge tests; [code-review examples](https://github.com/Kartikm09/automation-reliability-console/blob/1e45cb05b57ebc6e41cdaa5645630f2a56d314a0/docs/code_review_examples.md) |
+
+Local and CI results are scoped to the documented fixtures and project limitations.
